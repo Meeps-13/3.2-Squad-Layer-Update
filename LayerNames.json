@@ -9703,10 +9703,10 @@
     {
       "Name": "AlBasrah Invasion v7",
       "rawName": "AlBasrah_Invasion_v7",
-      "levelName": "Albasrah_invasion_7",
+      "levelName": "AlBasrah_Invasion_v7",
       "minimapTexture": "albasrah_minimap",
-      "lightingLevel": "LL_AlBasrah_Sunset",
-      "lighting": "Sunrise",
+      "lightingLevel": "LL_AlBasrah_MidDay",
+      "lighting": "Sunny Mid Day",
       "border": [
         {
           "point": "0",
@@ -10025,7 +10025,7 @@
       "capturePoints": "6",
       "mapName": "Al Basrah",
       "gamemode": "Invasion",
-      "layerVersion": "v7
+      "layerVersion": "v7",
       "mapSize": "1.8x2.9 km",
       "mapSizeType": "Playable Area"
     },
