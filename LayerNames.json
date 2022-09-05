@@ -6660,7 +6660,7 @@
         "07-Island Suburbs"
       ],
       "capturePoints": "7",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "1.8x2.9 km",
@@ -6962,7 +6962,7 @@
         "07-Island Suburbs"
       ],
       "capturePoints": "7",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "1.8x2.9 km",
@@ -7237,7 +7237,7 @@
         "07-Island Suburbs"
       ],
       "capturePoints": "7",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "1.8x2.9 km",
@@ -7642,7 +7642,7 @@
         "100-Team2 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Insurgency",
       "layerVersion": "v1",
       "mapSize": "1.8x2.9 km",
@@ -7971,7 +7971,7 @@
         "06-CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "1.8x2.9 km",
@@ -8354,7 +8354,7 @@
         "06-CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "1.8x2.9 km",
@@ -8755,7 +8755,7 @@
         "06-CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Invasion",
       "layerVersion": "v3",
       "mapSize": "1.8x2.9 km",
@@ -9074,7 +9074,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Invasion",
       "layerVersion": "v4",
       "mapSize": "1.8x2.9 km",
@@ -9384,7 +9384,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Invasion",
       "layerVersion": "v5",
       "mapSize": "1.8x2.9 km",
@@ -9694,7 +9694,7 @@
         "01-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Invasion",
       "layerVersion": "v6",
       "mapSize": "1.8x2.9 km",
@@ -9746,8 +9746,8 @@
         }
       ],
       "team1": {
-        "faction": "British Army",
-        "teamSetupName": "British Armed Forces",
+        "faction": "Middle Eastern Alliance",
+        "teamSetupName": "MEA 60th Prince Assur Armored Brigade",
         "tickets": "200",
         "playerPercent": "50",
         "disabledVeh": "true",
@@ -10023,7 +10023,7 @@
         "06-CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Invasion",
       "layerVersion": "v7",
       "mapSize": "1.8x2.9 km",
@@ -10387,7 +10387,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "1.8x2.9 km",
@@ -10621,7 +10621,7 @@
         "05-North Outskirts"
       ],
       "capturePoints": "5",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Seed",
       "layerVersion": "v1",
       "mapSize": "0.2x-0.3 km",
@@ -10873,7 +10873,7 @@
         "05-North Outskirts"
       ],
       "capturePoints": "5",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "0.2x-0.3 km",
@@ -11094,7 +11094,7 @@
         "04-Basrah Outskirts"
       ],
       "capturePoints": "4",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "Skirmish",
       "layerVersion": "v2",
       "mapSize": "1.2x1.0 km",
@@ -11211,7 +11211,7 @@
         "100-Team2 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "TA",
       "layerVersion": "v1",
       "mapSize": "1.8x2.9 km",
@@ -11478,7 +11478,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "20",
       "capturePoints": "20",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "1.8x2.9 km",
@@ -11745,7 +11745,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "42",
       "capturePoints": "42",
-      "mapName": "Al Basrah",
+      "mapName": "AlBasrah",
       "gamemode": "TC",
       "layerVersion": "v2",
       "mapSize": "1.8x2.9 km",
@@ -12330,7 +12330,7 @@
         "05-Depot"
       ],
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "2.0x2.1 km",
@@ -12908,7 +12908,7 @@
         "07-Velino"
       ],
       "capturePoints": "7",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "2.0x2.1 km",
@@ -13520,7 +13520,7 @@
         "05-Aniva"
       ],
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "2.0x2.1 km",
@@ -14142,7 +14142,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "2.0x2.1 km",
@@ -14746,7 +14746,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "2.0x2.1 km",
@@ -15358,7 +15358,7 @@
         "04-CaptureZoneCluster"
       ],
       "capturePoints": "4",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "Invasion",
       "layerVersion": "v3",
       "mapSize": "2.0x2.1 km",
@@ -15971,7 +15971,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "2.0x2.1 km",
@@ -16602,7 +16602,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "2.0x2.1 km",
@@ -17233,7 +17233,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "2.0x2.1 km",
@@ -17848,7 +17848,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "2.0x2.1 km",
@@ -18517,7 +18517,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "RAAS",
       "layerVersion": "v5",
       "mapSize": "2.0x2.1 km",
@@ -18805,7 +18805,7 @@
         "05-Velino Upper"
       ],
       "capturePoints": "5",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "0.4x1.1 km",
@@ -19393,7 +19393,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "65",
       "capturePoints": "65",
-      "mapName": "Belaya Pass",
+      "mapName": "Belaya",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "2.0x2.1 km",
@@ -30274,9 +30274,9 @@
     {
       "Name": "FoolsRoad AAS v1",
       "rawName": "FoolsRoad_AAS_v1",
-      "levelName": "Fools_Road_AAS_v1",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_AAS_v1",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -30478,9 +30478,9 @@
     {
       "Name": "FoolsRoad AAS v2",
       "rawName": "FoolsRoad_AAS_v2",
-      "levelName": "Fools_Road_AAS_v2",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_AAS_v2",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -30684,9 +30684,9 @@
     {
       "Name": "FoolsRoad Destruction v1",
       "rawName": "FoolsRoad_Destruction_v1",
-      "levelName": "Fools_Road_Destruction_v1",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_Destruction_v1",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -30921,9 +30921,9 @@
     {
       "Name": "FoolsRoad Invasion v1",
       "rawName": "FoolsRoad_Invasion_v1",
-      "levelName": "Fools_Road_Invasion_v1",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_Invasion_v1",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -31179,9 +31179,9 @@
     {
       "Name": "FoolsRoad RAAS v1",
       "rawName": "FoolsRoad_RAAS_v1",
-      "levelName": "Fools_Road_RAAS_v1",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_RAAS_v1",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -31411,9 +31411,9 @@
     {
       "Name": "FoolsRoad RAAS v2",
       "rawName": "FoolsRoad_RAAS_v2",
-      "levelName": "Fools_Road_RAAS_v2",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_RAAS_v2",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -31616,9 +31616,9 @@
     {
       "Name": "FoolsRoad RAAS v3",
       "rawName": "FoolsRoad_RAAS_v3",
-      "levelName": "Fools_Road_RAAS_v3",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_RAAS_v3",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -31840,9 +31840,9 @@
     {
       "Name": "FoolsRoad RAAS v4",
       "rawName": "FoolsRoad_RAAS_v4",
-      "levelName": "Fools_Road_RAAS_v4",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_RAAS_v4",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -32063,9 +32063,9 @@
     {
       "Name": "FoolsRoad RAAS v5",
       "rawName": "FoolsRoad_RAAS_v5",
-      "levelName": "Fools_Road_RAAS_v5",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_RAAS_v5",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -32250,9 +32250,9 @@
     {
       "Name": "FoolsRoad Skirmish v1",
       "rawName": "FoolsRoad_Skirmish_v1",
-      "levelName": "Fools_Road_Skirmish_v1",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_Skirmish_v1",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -32436,9 +32436,9 @@
     {
       "Name": "FoolsRoad Skirmish v2",
       "rawName": "FoolsRoad_Skirmish_v2",
-      "levelName": "Fools_Road_Skirmish_v2",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_Evening",
+      "levelName": "FoolsRoad_Skirmish_v2",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_Evening",
       "lighting": "Sunny Afternoon",
       "border": [
         {
@@ -32566,9 +32566,9 @@
     {
       "Name": "FoolsRoad TC v1",
       "rawName": "FoolsRoad_TC_v1",
-      "levelName": "Fools_Road_TC_v1",
-      "minimapTexture": "Fools_Road_Minimap",
-      "lightingLevel": "LL_Fools_Road_MidDay",
+      "levelName": "FoolsRoad_TC_v1",
+      "minimapTexture": "FoolsRoad_Minimap",
+      "lightingLevel": "LL_FoolsRoad_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -32782,9 +32782,9 @@
     {
       "Name": "GooseBay AAS v1",
       "rawName": "GooseBay_AAS_v1",
-      "levelName": "Goose_Bay_AAS_v1",
+      "levelName": "GooseBayAAS_v1",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_MidDay",
+      "lightingLevel": "LL_GooseBayMidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -33065,9 +33065,9 @@
     {
       "Name": "GooseBay AAS v2",
       "rawName": "GooseBay_AAS_v2",
-      "levelName": "Goose_Bay_AAS_v2",
+      "levelName": "GooseBayAAS_v2",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_MidDay",
+      "lightingLevel": "LL_GooseBayMidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -33358,9 +33358,9 @@
     {
       "Name": "GooseBay Invasion v1",
       "rawName": "GooseBay_Invasion_v1",
-      "levelName": "Goose_Bay_Invasion_v1",
+      "levelName": "GooseBayInvasion_v1",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_Overcast",
+      "lightingLevel": "LL_GooseBayOvercast",
       "lighting": "Overcast",
       "border": [
         {
@@ -33659,9 +33659,9 @@
     {
       "Name": "GooseBay Invasion v2",
       "rawName": "GooseBay_Invasion_v2",
-      "levelName": "Goose_Bay_Invasion_v2",
+      "levelName": "GooseBayInvasion_v2",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_Overcast",
+      "lightingLevel": "LL_GooseBayOvercast",
       "lighting": "Overcast",
       "border": [
         {
@@ -33906,9 +33906,9 @@
     {
       "Name": "GooseBay Invasion v3",
       "rawName": "GooseBay_Invasion_v3",
-      "levelName": "Goose_Bay_Invasion_v3",
+      "levelName": "GooseBayInvasion_v3",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_Sunset_Fog",
+      "lightingLevel": "LL_GooseBaySunset_Fog",
       "lighting": "Sunset",
       "border": [
         {
@@ -34178,9 +34178,9 @@
     {
       "Name": "GooseBay Invasion v4",
       "rawName": "GooseBay_Invasion_v4",
-      "levelName": "Goose_Bay_Invasion_v4",
+      "levelName": "GooseBayInvasion_v4",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_Overcast",
+      "lightingLevel": "LL_GooseBayOvercast",
       "lighting": "Overcast",
       "border": [
         {
@@ -34506,9 +34506,9 @@
     {
       "Name": "GooseBay RAAS v1",
       "rawName": "GooseBay_RAAS_v1",
-      "levelName": "Goose_Bay_RAAS_v1",
+      "levelName": "GooseBayRAAS_v1",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_Overcast",
+      "lightingLevel": "LL_GooseBayOvercast",
       "lighting": "Overcast",
       "border": [
         {
@@ -34846,9 +34846,9 @@
     {
       "Name": "GooseBay RAAS v2",
       "rawName": "GooseBay_RAAS_v2",
-      "levelName": "Goose_Bay_RAAS_v2",
+      "levelName": "GooseBayRAAS_v2",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_Overcast",
+      "lightingLevel": "LL_GooseBayOvercast",
       "lighting": "Overcast",
       "border": [
         {
@@ -35186,9 +35186,9 @@
     {
       "Name": "GooseBay RAAS v3",
       "rawName": "GooseBay_RAAS_v3",
-      "levelName": "Goose_Bay_RAAS_v3",
+      "levelName": "GooseBayRAAS_v3",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_Overcast",
+      "lightingLevel": "LL_GooseBayOvercast",
       "lighting": "Overcast",
       "border": [
         {
@@ -35553,9 +35553,9 @@
     {
       "Name": "GooseBay Skirmish v1",
       "rawName": "GooseBay_Skirmish_v1",
-      "levelName": "Goose_Bay_Skirmish_v1",
+      "levelName": "GooseBaySkirmish_v1",
       "minimapTexture": "CAF_GooseBay_Minimap",
-      "lightingLevel": "LL_Goose_Bay_MidDay",
+      "lightingLevel": "LL_GooseBayMidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -47523,7 +47523,7 @@
         "05-Darin"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "2.1x2.2 km",
@@ -48105,7 +48105,7 @@
         "100-Team2 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Insurgency",
       "layerVersion": "v1",
       "mapSize": "2.1x2.2 km",
@@ -48633,7 +48633,7 @@
         "100-Team2 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Insurgency",
       "layerVersion": "v2",
       "mapSize": "2.1x2.2 km",
@@ -49174,7 +49174,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "2.1x2.2 km",
@@ -49751,7 +49751,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "2.1x2.2 km",
@@ -50328,7 +50328,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Invasion",
       "layerVersion": "v3",
       "mapSize": "2.1x2.2 km",
@@ -50896,7 +50896,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Invasion",
       "layerVersion": "v4",
       "mapSize": "2.1x2.2 km",
@@ -51464,7 +51464,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Invasion",
       "layerVersion": "v5",
       "mapSize": "2.1x2.2 km",
@@ -51996,7 +51996,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Invasion",
       "layerVersion": "v6",
       "mapSize": "2.1x2.2 km",
@@ -52528,7 +52528,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Invasion",
       "layerVersion": "v7",
       "mapSize": "2.1x2.2 km",
@@ -53035,7 +53035,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "2.1x2.2 km",
@@ -53488,7 +53488,7 @@
         "07-BP_CaptureZoneCluster"
       ],
       "capturePoints": "7",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "2.1x2.2 km",
@@ -53950,7 +53950,7 @@
         "07-BP_CaptureZoneCluster"
       ],
       "capturePoints": "7",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "2.1x2.2 km",
@@ -54401,7 +54401,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "2.1x2.2 km",
@@ -54908,7 +54908,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "RAAS",
       "layerVersion": "v5",
       "mapSize": "2.1x2.2 km",
@@ -55400,7 +55400,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "RAAS",
       "layerVersion": "v6",
       "mapSize": "2.1x2.2 km",
@@ -55932,7 +55932,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "RAAS",
       "layerVersion": "v7",
       "mapSize": "2.1x2.2 km",
@@ -56344,7 +56344,7 @@
         "03-Smuggler's Den"
       ],
       "capturePoints": "3",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "2.1x2.2 km",
@@ -56788,7 +56788,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "43",
       "capturePoints": "43",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "2.1x2.2 km",
@@ -57313,7 +57313,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "43",
       "capturePoints": "43",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "TC",
       "layerVersion": "v2",
       "mapSize": "2.1x2.2 km",
@@ -57793,7 +57793,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "43",
       "capturePoints": "43",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "TC",
       "layerVersion": "v3",
       "mapSize": "2.1x2.2 km",
@@ -58255,7 +58255,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "33",
       "capturePoints": "33",
-      "mapName": "Kamdesh Highlands",
+      "mapName": "Kamdesh",
       "gamemode": "TC",
       "layerVersion": "v4",
       "mapSize": "2.1x2.2 km",
@@ -58722,7 +58722,7 @@
         "07-Lodi Khel"
       ],
       "capturePoints": "7",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "2.1x1.9 km",
@@ -59181,7 +59181,7 @@
         "08-Togh Sarai"
       ],
       "capturePoints": "8",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "2.1x1.9 km",
@@ -59657,7 +59657,7 @@
         "07-Lodi Khel"
       ],
       "capturePoints": "7",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "2.1x1.9 km",
@@ -60174,7 +60174,7 @@
         "99-Resupply"
       ],
       "capturePoints": "3",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "Insurgency",
       "layerVersion": "v1",
       "mapSize": "2.1x1.9 km",
@@ -60676,7 +60676,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "2.1x1.9 km",
@@ -61150,7 +61150,7 @@
         "04-CaptureZoneCluster"
       ],
       "capturePoints": "4",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "2.1x1.9 km",
@@ -61660,7 +61660,7 @@
         "04-CaptureZoneCluster"
       ],
       "capturePoints": "4",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "Invasion",
       "layerVersion": "v3",
       "mapSize": "2.1x1.9 km",
@@ -62138,7 +62138,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "2.1x1.9 km",
@@ -62634,7 +62634,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "2.1x1.9 km",
@@ -63118,7 +63118,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "2.1x1.9 km",
@@ -63596,7 +63596,7 @@
         "08-BP_CaptureZoneCluster"
       ],
       "capturePoints": "8",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "2.1x1.9 km",
@@ -64074,7 +64074,7 @@
         "03C-BP_CaptureZoneCluster"
       ],
       "capturePoints": "26",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v5",
       "mapSize": "2.1x1.9 km",
@@ -64521,7 +64521,7 @@
         "05Yellow-BP_CaptureZoneCluster"
       ],
       "capturePoints": "13",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v6",
       "mapSize": "2.1x1.9 km",
@@ -65004,7 +65004,7 @@
         "01Blue-BP_CaptureZoneCluster"
       ],
       "capturePoints": "22",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v7",
       "mapSize": "2.1x1.9 km",
@@ -65482,7 +65482,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v8",
       "mapSize": "2.1x1.9 km",
@@ -66015,7 +66015,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "RAAS",
       "layerVersion": "v9",
       "mapSize": "2.1x1.9 km",
@@ -66417,7 +66417,7 @@
         "05-Mohd Zai Lower"
       ],
       "capturePoints": "5",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "2.1x1.9 km",
@@ -66894,7 +66894,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "36",
       "capturePoints": "36",
-      "mapName": "Kohat Toi",
+      "mapName": "Kohat",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "2.1x1.9 km",
@@ -66903,9 +66903,9 @@
     {
       "Name": "Kokan AAS v1",
       "rawName": "Kokan_AAS_v1",
-      "levelName": "Kokan_Valley_AAS_v1",
+      "levelName": "Kokan_AAS_v1",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -67118,9 +67118,9 @@
     {
       "Name": "Kokan AAS v2",
       "rawName": "Kokan_AAS_v2",
-      "levelName": "Kokan_Valley_AAS_v2",
+      "levelName": "Kokan_AAS_v2",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -67349,9 +67349,9 @@
     {
       "Name": "Kokan AAS v3",
       "rawName": "Kokan_AAS_v3",
-      "levelName": "Kokan_Valley_AAS_v3",
+      "levelName": "Kokan_AAS_v3",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -67555,9 +67555,9 @@
     {
       "Name": "Kokan Insurgency v1",
       "rawName": "Kokan_Insurgency_v1",
-      "levelName": "Kokan_Valley_Insurgency_v1",
+      "levelName": "Kokan_Insurgency_v1",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -67774,9 +67774,9 @@
     {
       "Name": "Kokan Invasion v1",
       "rawName": "Kokan_Invasion_v1",
-      "levelName": "Kokan_Valley_Invasion_v1",
+      "levelName": "Kokan_Invasion_v1",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_Sunrise",
+      "lightingLevel": "LL_Kokan_Sunrise",
       "lighting": "Sunrise",
       "border": [
         {
@@ -67979,9 +67979,9 @@
     {
       "Name": "Kokan RAAS v1",
       "rawName": "Kokan_RAAS_v1",
-      "levelName": "Kokan_Valley_RAAS_v1",
+      "levelName": "Kokan_RAAS_v1",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -68194,9 +68194,9 @@
     {
       "Name": "Kokan RAAS v2",
       "rawName": "Kokan_RAAS_v2",
-      "levelName": "Kokan_Valley_RAAS_v2",
+      "levelName": "Kokan_RAAS_v2",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_Sunrise",
+      "lightingLevel": "LL_Kokan_Sunrise",
       "lighting": "Sunrise",
       "border": [
         {
@@ -68417,9 +68417,9 @@
     {
       "Name": "Kokan RAAS v3",
       "rawName": "Kokan_RAAS_v3",
-      "levelName": "Kokan_Valley_RAAS_v3",
+      "levelName": "Kokan_RAAS_v3",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -68623,9 +68623,9 @@
     {
       "Name": "Kokan RAAS v4",
       "rawName": "Kokan_RAAS_v4",
-      "levelName": "Kokan_Valley_RAAS_v4",
+      "levelName": "Kokan_RAAS_v4",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -68847,9 +68847,9 @@
     {
       "Name": "Kokan Skirmish v1",
       "rawName": "Kokan_Skirmish_v1",
-      "levelName": "Kokan_Valley_Skirmish_v1",
+      "levelName": "Kokan_Skirmish_v1",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -69051,9 +69051,9 @@
     {
       "Name": "Kokan TC v1",
       "rawName": "Kokan_TC_v1",
-      "levelName": "Kokan_Valley_TC_v1",
+      "levelName": "Kokan_TC_v1",
       "minimapTexture": "T_Kokan_Minimap",
-      "lightingLevel": "LL_Kokan_Valley_MidDay_Sunny",
+      "lightingLevel": "LL_Kokan_MidDay_Sunny",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -69258,7 +69258,7 @@
     {
       "Name": "Lashkar AAS v1",
       "rawName": "LashkarValley_AAS_v1",
-      "levelName": "Lashkar_Valley_AAS_v1",
+      "levelName": "Lashkar_AAS_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -69686,7 +69686,7 @@
         "07-Kanju"
       ],
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "2.2x1.9 km",
@@ -69695,7 +69695,7 @@
     {
       "Name": "Lashkar AAS v2",
       "rawName": "LashkarValley_AAS_v2",
-      "levelName": "Lashkar_Valley_AAS_v2",
+      "levelName": "Lashkar_AAS_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -70141,7 +70141,7 @@
         "07-Sahib Abad"
       ],
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "2.2x1.9 km",
@@ -70150,7 +70150,7 @@
     {
       "Name": "Lashkar AAS v3",
       "rawName": "LashkarValley_AAS_v3",
-      "levelName": "Lashkar_Valley_AAS_v3",
+      "levelName": "Lashkar_AAS_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -70587,7 +70587,7 @@
         "07-Kanju"
       ],
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "2.2x1.9 km",
@@ -70596,7 +70596,7 @@
     {
       "Name": "Lashkar AAS v4",
       "rawName": "LashkarValley_AAS_v4",
-      "levelName": "Lashkar_Valley_AAS_v4",
+      "levelName": "Lashkar_AAS_v4",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -71042,7 +71042,7 @@
         "07-Sahib Abad"
       ],
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "AAS",
       "layerVersion": "v4",
       "mapSize": "2.2x1.9 km",
@@ -71051,7 +71051,7 @@
     {
       "Name": "Lashkar Insurgency v1",
       "rawName": "LashkarValley_Insurgency_v1",
-      "levelName": "Lashkar_Valley_Insurgency_v1",
+      "levelName": "Lashkar_Insurgency_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Early_Morning",
       "lighting": "Early Morning",
@@ -71522,7 +71522,7 @@
         "99-Resupply 3"
       ],
       "capturePoints": "5",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "Insurgency",
       "layerVersion": "v1",
       "mapSize": "2.2x1.9 km",
@@ -71531,7 +71531,7 @@
     {
       "Name": "Lashkar Invasion v1",
       "rawName": "LashkarValley_Invasion_v1",
-      "levelName": "Lashkar_Valley_Invasion_v1",
+      "levelName": "Lashkar_Invasion_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
       "lighting": "Rain Storm",
@@ -71988,7 +71988,7 @@
         "05W-CaptureZoneCluster"
       ],
       "capturePoints": "8",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "2.2x1.9 km",
@@ -71997,7 +71997,7 @@
     {
       "Name": "Lashkar Invasion v2",
       "rawName": "LashkarValley_Invasion_v2",
-      "levelName": "Lashkar_Valley_Invasion_v2",
+      "levelName": "Lashkar_Invasion_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -72472,7 +72472,7 @@
         "05W-CaptureZoneCluster"
       ],
       "capturePoints": "8",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "2.2x1.9 km",
@@ -72481,7 +72481,7 @@
     {
       "Name": "Lashkar Invasion v3",
       "rawName": "LashkarValley_Invasion_v3",
-      "levelName": "Lashkar_Valley_Invasion_v3",
+      "levelName": "Lashkar_Invasion_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -72965,7 +72965,7 @@
         "05W-BP_CaptureZoneCluster"
       ],
       "capturePoints": "8",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "Invasion",
       "layerVersion": "v3",
       "mapSize": "2.2x1.9 km",
@@ -72974,7 +72974,7 @@
     {
       "Name": "Lashkar RAAS v1",
       "rawName": "LashkarValley_RAAS_v1",
-      "levelName": "Lashkar_Valley_RAAS_v1",
+      "levelName": "Lashkar_RAAS_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Early_Morning",
       "lighting": "Early Morning",
@@ -73450,7 +73450,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "2.2x1.9 km",
@@ -73459,7 +73459,7 @@
     {
       "Name": "Lashkar RAAS v2",
       "rawName": "LashkarValley_RAAS_v2",
-      "levelName": "Lashkar_Valley_RAAS_v2",
+      "levelName": "Lashkar_RAAS_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -73917,7 +73917,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "2.2x1.9 km",
@@ -73926,7 +73926,7 @@
     {
       "Name": "Lashkar RAAS v3",
       "rawName": "LashkarValley_RAAS_v3",
-      "levelName": "Lashkar_Valley_RAAS_v3",
+      "levelName": "Lashkar_RAAS_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
       "lighting": "Rain Storm",
@@ -74393,7 +74393,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "2.2x1.9 km",
@@ -74402,7 +74402,7 @@
     {
       "Name": "Lashkar RAAS v4",
       "rawName": "LashkarValley_RAAS_v4",
-      "levelName": "Lashkar_Valley_RAAS_v4",
+      "levelName": "Lashkar_RAAS_v4",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -74997,7 +74997,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "2.2x1.9 km",
@@ -75006,7 +75006,7 @@
     {
       "Name": "Lashkar RAAS v5",
       "rawName": "LashkarValley_RAAS_v5",
-      "levelName": "Lashkar_Valley_RAAS_v5",
+      "levelName": "Lashkar_RAAS_v5",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -75601,7 +75601,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "RAAS",
       "layerVersion": "v5",
       "mapSize": "2.2x1.9 km",
@@ -75610,7 +75610,7 @@
     {
       "Name": "Lashkar Skirmish v1",
       "rawName": "LashkarValley_Skirmish_v1",
-      "levelName": "Lashkar_Valley_Skirmish_v1",
+      "levelName": "Lashkar_Skirmish_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
       "lighting": "Mid Day",
@@ -76002,7 +76002,7 @@
         "07-Jowman"
       ],
       "capturePoints": "7",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "2.2x1.9 km",
@@ -76011,7 +76011,7 @@
     {
       "Name": "Lashkar TC v1",
       "rawName": "LashkarValley_TC_v1",
-      "levelName": "Lashkar_Valley_TC_v1",
+      "levelName": "Lashkar_TC_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
       "lighting": "Rain Storm",
@@ -76449,7 +76449,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "98",
       "capturePoints": "98",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "2.2x1.9 km",
@@ -76458,7 +76458,7 @@
     {
       "Name": "Lashkar TC v2",
       "rawName": "LashkarValley_TC_v2",
-      "levelName": "Lashkar_Valley_TC_v2",
+      "levelName": "Lashkar_TC_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
       "lighting": "Rain Storm",
@@ -76797,7 +76797,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "65",
       "capturePoints": "65",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "TC",
       "layerVersion": "v2",
       "mapSize": "2.2x1.9 km",
@@ -76806,7 +76806,7 @@
     {
       "Name": "Lashkar TC v3",
       "rawName": "LashkarValley_TC_v3",
-      "levelName": "Lashkar_Valley_TC_v3",
+      "levelName": "Lashkar_TC_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Early_Morning",
       "lighting": "Early Morning",
@@ -77235,7 +77235,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "132",
       "capturePoints": "132",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "TC",
       "layerVersion": "v3",
       "mapSize": "2.2x1.9 km",
@@ -77244,7 +77244,7 @@
     {
       "Name": "Lashkar TC v4",
       "rawName": "LashkarValley_TC_v4",
-      "levelName": "Lashkar_Valley_TC_v4",
+      "levelName": "Lashkar_TC_v4",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
       "lighting": "Rain Storm",
@@ -77673,7 +77673,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "98",
       "capturePoints": "98",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "TC",
       "layerVersion": "v4",
       "mapSize": "2.2x1.9 km",
@@ -77682,7 +77682,7 @@
     {
       "Name": "Lashkar TC v5",
       "rawName": "LashkarValley_TC_v5",
-      "levelName": "Lashkar_Valley_TC_v5",
+      "levelName": "Lashkar_TC_v5",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
       "lighting": "Rain Storm",
@@ -78138,7 +78138,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "62",
       "capturePoints": "62",
-      "mapName": "Lashkar Valley",
+      "mapName": "Lashkar",
       "gamemode": "TC",
       "layerVersion": "v5",
       "mapSize": "2.2x1.9 km",
@@ -78147,9 +78147,9 @@
     {
       "Name": "Logar AAS v1",
       "rawName": "Logar_AAS_v1",
-      "levelName": "Logar_Valley_AAS_v1",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_MidDay",
+      "levelName": "Logar_AAS_v1",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -78336,7 +78336,7 @@
         "08-Farm"
       ],
       "capturePoints": "8",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "0.9x1.1 km",
@@ -78345,9 +78345,9 @@
     {
       "Name": "Logar AAS v2",
       "rawName": "Logar_AAS_v2",
-      "levelName": "Logar_Valley_AAS_v2",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_Overcast",
+      "levelName": "Logar_AAS_v2",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_Overcast",
       "lighting": "Overcast",
       "border": [
         {
@@ -78505,7 +78505,7 @@
         "06-Abandoned Farm"
       ],
       "capturePoints": "6",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "0.9x1.1 km",
@@ -78514,9 +78514,9 @@
     {
       "Name": "Logar AAS v3",
       "rawName": "Logar_AAS_v3",
-      "levelName": "Logar_Valley_AAS_v3",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_MidDay",
+      "levelName": "Logar_AAS_v3",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -78685,7 +78685,7 @@
         "08-Farm"
       ],
       "capturePoints": "8",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "0.9x1.1 km",
@@ -78694,9 +78694,9 @@
     {
       "Name": "Logar Insurgency v1",
       "rawName": "Logar_Insurgency_v1",
-      "levelName": "Logar_Valley_Insurgency_v1",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_Evening",
+      "levelName": "Logar_Insurgency_v1",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_Evening",
       "lighting": "Evening",
       "border": [
         {
@@ -78895,7 +78895,7 @@
         "100-Team2 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "Insurgency",
       "layerVersion": "v1",
       "mapSize": "0.0x0.0 km",
@@ -78904,9 +78904,9 @@
     {
       "Name": "Logar RAAS v1",
       "rawName": "Logar_RAAS_v1",
-      "levelName": "Logar_Valley_RAAS_v1",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_MidDay",
+      "levelName": "Logar_RAAS_v1",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -79094,7 +79094,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "0.9x1.1 km",
@@ -79103,9 +79103,9 @@
     {
       "Name": "Logar RAAS v2",
       "rawName": "Logar_RAAS_v2",
-      "levelName": "Logar_Valley_RAAS_v2",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_MidDay",
+      "levelName": "Logar_RAAS_v2",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -79311,7 +79311,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "0.9x1.1 km",
@@ -79320,9 +79320,9 @@
     {
       "Name": "Logar Seed v1",
       "rawName": "Logar_Seed_v1",
-      "levelName": "Logar_Valley_Seed_v1",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_Evening",
+      "levelName": "Logar_Seed_v1",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_Evening",
       "lighting": "Evening",
       "border": [
         {
@@ -79479,7 +79479,7 @@
         "05-Upper DC"
       ],
       "capturePoints": "5",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "Seed",
       "layerVersion": "v1",
       "mapSize": "0.9x1.1 km",
@@ -79488,9 +79488,9 @@
     {
       "Name": "Logar Skirmish v1",
       "rawName": "Logar_Skirmish_v1",
-      "levelName": "Logar_Valley_Skirmish_v1",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_Evening",
+      "levelName": "Logar_Skirmish_v1",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_Evening",
       "lighting": "Evening",
       "border": [
         {
@@ -79665,7 +79665,7 @@
         "05-Upper DC"
       ],
       "capturePoints": "5",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "0.9x1.1 km",
@@ -79674,9 +79674,9 @@
     {
       "Name": "Logar TC v1",
       "rawName": "Logar_TC_v1",
-      "levelName": "Logar_Valley_TC_v1",
-      "minimapTexture": "Logar_Valley_Minimap",
-      "lightingLevel": "LL_Logar_Valley_MidDay",
+      "levelName": "Logar_TC_v1",
+      "minimapTexture": "Logar_Minimap",
+      "lightingLevel": "LL_Logar_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -79854,7 +79854,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "40",
       "capturePoints": "40",
-      "mapName": "Logar Valley",
+      "mapName": "Logar",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "0.9x1.1 km",
@@ -79864,8 +79864,8 @@
       "Name": "Manic AAS v1",
       "rawName": "Manic_AAS_v1",
       "levelName": "Manic_AAS_v1",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -80132,7 +80132,7 @@
         "07-Ranch Estate"
       ],
       "capturePoints": "7",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "3.9x3.9 km",
@@ -80142,8 +80142,8 @@
       "Name": "Manic AAS v2",
       "rawName": "Manic_AAS_v2",
       "levelName": "Manic_AAS_v2",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -80428,7 +80428,7 @@
         "07-Hilltop OP"
       ],
       "capturePoints": "7",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "3.9x3.9 km",
@@ -80438,8 +80438,8 @@
       "Name": "Manic Invasion v1",
       "rawName": "Manic_Invasion_v1",
       "levelName": "Manic_Invasion_v1",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -80741,7 +80741,7 @@
         "01-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "3.9x3.9 km",
@@ -80751,8 +80751,8 @@
       "Name": "Manic Invasion v2",
       "rawName": "Manic_Invasion_v2",
       "levelName": "Manic_Invasion_v2",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -81054,7 +81054,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "3.9x3.9 km",
@@ -81064,8 +81064,8 @@
       "Name": "Manic RAAS v1",
       "rawName": "Manic_RAAS_v1",
       "levelName": "Manic_RAAS_v1",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -81391,7 +81391,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "3.9x3.9 km",
@@ -81401,8 +81401,8 @@
       "Name": "Manic RAAS v2",
       "rawName": "Manic_RAAS_v2",
       "levelName": "Manic_RAAS_v2",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -81776,7 +81776,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "3.9x3.9 km",
@@ -81786,8 +81786,8 @@
       "Name": "Manic RAAS v3",
       "rawName": "Manic_RAAS_v3",
       "levelName": "Manic_RAAS_v3",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -82059,7 +82059,7 @@
         ]
       },
       "capturePoints": "7",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "3.9x3.9 km",
@@ -82069,8 +82069,8 @@
       "Name": "Manic RAAS v4",
       "rawName": "Manic_RAAS_v4",
       "levelName": "Manic_RAAS_v4",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -82357,7 +82357,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "3.9x3.9 km",
@@ -82367,8 +82367,8 @@
       "Name": "Manic Skirmish v1",
       "rawName": "Manic_Skirmish_v1",
       "levelName": "Manic_Skirmish_v1",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_Overcast",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_Overcast",
       "lighting": "Overcast",
       "border": [
         {
@@ -82597,7 +82597,7 @@
         "05-Mont Joie Outskirts"
       ],
       "capturePoints": "5",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "3.9x3.9 km",
@@ -82607,8 +82607,8 @@
       "Name": "Manic Skirmish v2",
       "rawName": "Manic_Skirmish_v2",
       "levelName": "Manic_Skirmish_v2",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_MidDay",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_MidDay",
       "lighting": "Mid Day",
       "border": [
         {
@@ -82801,7 +82801,7 @@
         "05-East Baie Comeau"
       ],
       "capturePoints": "5",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "Skirmish",
       "layerVersion": "v2",
       "mapSize": "3.9x3.9 km",
@@ -82811,8 +82811,8 @@
       "Name": "Manic TC v1",
       "rawName": "Manic_TC_v1",
       "levelName": "Manic_TC_v1",
-      "minimapTexture": "T_Manic-5_Minimap",
-      "lightingLevel": "LL_Manic-5_Sunset",
+      "minimapTexture": "T_Manic_Minimap",
+      "lightingLevel": "LL_Manic_Sunset",
       "lighting": "Sunset",
       "border": [
         {
@@ -83035,7 +83035,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "55",
       "capturePoints": "55",
-      "mapName": "Manic-5",
+      "mapName": "Manic",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "3.9x3.9 km",
@@ -98080,7 +98080,7 @@
         "05-School"
       ],
       "capturePoints": "5",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "0.6x0.4 km",
@@ -98284,7 +98284,7 @@
         "05-Training Camp"
       ],
       "capturePoints": "5",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "0.6x0.4 km",
@@ -98488,7 +98488,7 @@
         "05-School"
       ],
       "capturePoints": "5",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "AAS",
       "layerVersion": "v3",
       "mapSize": "0.6x0.4 km",
@@ -98685,7 +98685,7 @@
         "07-Training Camp"
       ],
       "capturePoints": "7",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "AAS",
       "layerVersion": "v4",
       "mapSize": "0.6x0.4 km",
@@ -98873,7 +98873,7 @@
         "07-Training Camp"
       ],
       "capturePoints": "7",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "AAS",
       "layerVersion": "v5",
       "mapSize": "0.6x0.4 km",
@@ -99074,7 +99074,7 @@
         "100-Team2 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "Insurgency",
       "layerVersion": "v1",
       "mapSize": "0.6x0.4 km",
@@ -99271,7 +99271,7 @@
         "06-BP_CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "0.6x0.4 km",
@@ -99441,7 +99441,7 @@
         "06-BP_CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "0.6x0.4 km",
@@ -99584,7 +99584,7 @@
         "06-BP_CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "0.6x0.4 km",
@@ -99770,7 +99770,7 @@
         "05-Gas Station"
       ],
       "capturePoints": "5",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "Seed",
       "layerVersion": "v1",
       "mapSize": "0.6x0.4 km",
@@ -99965,7 +99965,7 @@
         "05-Gas Station"
       ],
       "capturePoints": "5",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "Seed",
       "layerVersion": "v2",
       "mapSize": "0.6x0.4 km",
@@ -100169,7 +100169,7 @@
         "05-Gas Station"
       ],
       "capturePoints": "5",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "0.6x0.4 km",
@@ -100331,18 +100331,18 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "23",
       "capturePoints": "23",
-      "mapName": "Sumari Bala",
+      "mapName": "Sumari",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "0.6x0.4 km",
       "mapSizeType": "Minimap Size"
     },
     {
-      "Name": "Tallil AAS_v1",
+      "Name": "Sumari AAS_v1",
       "rawName": "Tallil_AAS_v1",
-      "levelName": "Tallil_Outskirts_AAS_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_AAS_v1",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -100663,7 +100663,7 @@
         "07-Batha"
       ],
       "capturePoints": "7",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "4.0x4.1 km",
@@ -100672,9 +100672,9 @@
     {
       "Name": "Tallil AAS v2",
       "rawName": "Tallil_AAS_v2",
-      "levelName": "Tallil_Outskirts_AAS_v2",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_AAS_v2",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -101022,7 +101022,7 @@
         "07-Batha"
       ],
       "capturePoints": "7",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "4.0x4.1 km",
@@ -101031,9 +101031,9 @@
     {
       "Name": "Tallil Invasion v1",
       "rawName": "Tallil_Invasion_v1",
-      "levelName": "Tallil_Outskirts_Invasion_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_Morning",
+      "levelName": "Tallil_Invasion_v1",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_Morning",
       "lighting": "Morning Sunrise",
       "border": [
         {
@@ -101344,7 +101344,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "4.0x4.1 km",
@@ -101353,9 +101353,9 @@
     {
       "Name": "Tallil Invasion v2",
       "rawName": "Tallil_Invasion_v2",
-      "levelName": "Tallil_Outskirts_Invasion_v2",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_Morning",
+      "levelName": "Tallil_Invasion_v2",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_Morning",
       "lighting": "Morning Sunrise",
       "border": [
         {
@@ -101647,7 +101647,7 @@
         "04-CaptureZoneCluster"
       ],
       "capturePoints": "4",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "4.0x4.1 km",
@@ -101656,9 +101656,9 @@
     {
       "Name": "Tallil Invasion v3",
       "rawName": "Tallil_Invasion_v3",
-      "levelName": "Tallil_Outskirts_Invasion_v3",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_Morning",
+      "levelName": "Tallil_Invasion_v3",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_Morning",
       "lighting": "Morning Sunrise",
       "border": [
         {
@@ -101951,7 +101951,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Invasion",
       "layerVersion": "v3",
       "mapSize": "4.0x4.1 km",
@@ -101960,9 +101960,9 @@
     {
       "Name": "Tallil Invasion v4",
       "rawName": "Tallil_Invasion_v4",
-      "levelName": "Tallil_Outskirts_Invasion_v4",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_Morning",
+      "levelName": "Tallil_Invasion_v4",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_Morning",
       "lighting": "Morning Sunrise",
       "border": [
         {
@@ -102263,7 +102263,7 @@
         "04-CaptureZoneCluster"
       ],
       "capturePoints": "4",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Invasion",
       "layerVersion": "v4",
       "mapSize": "4.0x4.1 km",
@@ -102272,9 +102272,9 @@
     {
       "Name": "Tallil RAAS v1",
       "rawName": "Tallil_RAAS_v1",
-      "levelName": "Tallil_Outskirts_RAAS_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_RAAS_v1",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -102514,7 +102514,7 @@
         "06-CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "4.0x4.1 km",
@@ -102523,9 +102523,9 @@
     {
       "Name": "Tallil RAAS v2",
       "rawName": "Tallil_RAAS_v2",
-      "levelName": "Tallil_Outskirts_RAAS_v2",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_Morning",
+      "levelName": "Tallil_RAAS_v2",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_Morning",
       "lighting": "Morning Sunrise",
       "border": [
         {
@@ -102837,7 +102837,7 @@
         "06-CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "4.0x4.1 km",
@@ -102846,9 +102846,9 @@
     {
       "Name": "Tallil RAAS v3",
       "rawName": "Tallil_RAAS_v3",
-      "levelName": "Tallil_Outskirts_RAAS_v3",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_RAAS_v3",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -103152,7 +103152,7 @@
         "07-CaptureZoneCluster"
       ],
       "capturePoints": "7",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "4.0x4.1 km",
@@ -103161,9 +103161,9 @@
     {
       "Name": "Tallil RAAS v4",
       "rawName": "Tallil_RAAS_v4",
-      "levelName": "Tallil_Outskirts_RAAS_v4",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_RAAS_v4",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -103484,7 +103484,7 @@
         "06-Batha"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "4.0x4.1 km",
@@ -103493,9 +103493,9 @@
     {
       "Name": "Tallil RAAS v5",
       "rawName": "Tallil_RAAS_v5",
-      "levelName": "Tallil_Outskirts_RAAS_v5",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_RAAS_v5",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -103798,7 +103798,7 @@
         "06-CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "RAAS",
       "layerVersion": "v5",
       "mapSize": "4.0x4.1 km",
@@ -103807,9 +103807,9 @@
     {
       "Name": "Tallil RAAS v6",
       "rawName": "Tallil_RAAS_v6",
-      "levelName": "Tallil_Outskirts_RAAS_v6",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_RAAS_v6",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -104166,7 +104166,7 @@
         "06-Batha"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "RAAS",
       "layerVersion": "v6",
       "mapSize": "4.0x4.1 km",
@@ -104175,9 +104175,9 @@
     {
       "Name": "Tallil RAAS v7",
       "rawName": "Tallil_RAAS_v7",
-      "levelName": "Tallil_Outskirts_RAAS_v7",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay",
+      "levelName": "Tallil_RAAS_v7",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -104498,7 +104498,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "RAAS",
       "layerVersion": "v7",
       "mapSize": "4.0x4.1 km",
@@ -104507,9 +104507,9 @@
     {
       "Name": "Tallil Seed v1",
       "rawName": "Tallil_Seed_v1",
-      "levelName": "Tallil_Outskirts_Seed_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap_Skirmish_v1",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay",
+      "levelName": "Tallil_Seed_v1",
+      "minimapTexture": "Tallil_Minimap_Skirmish_v1",
+      "lightingLevel": "LL_Tallil_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -104682,7 +104682,7 @@
         "06-Highway Edge"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Seed",
       "layerVersion": "v1",
       "mapSize": "-0.3x1.0 km",
@@ -104691,9 +104691,9 @@
     {
       "Name": "Tallil Seed v2",
       "rawName": "Tallil_Seed_v2",
-      "levelName": "Tallil_Outskirts_Seed_v2",
-      "minimapTexture": "Tallil_Outskirts_Minimap_Skirmish_v1",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay",
+      "levelName": "Tallil_Seed_v2",
+      "minimapTexture": "Tallil_Minimap_Skirmish_v1",
+      "lightingLevel": "LL_Tallil_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -104902,7 +104902,7 @@
         "06-Highway Edge"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Seed",
       "layerVersion": "v2",
       "mapSize": "-0.3x1.0 km",
@@ -104911,9 +104911,9 @@
     {
       "Name": "Tallil Skirmish v1",
       "rawName": "Tallil_Skirmish_v1",
-      "levelName": "Tallil_Outskirts_Skirmish_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap_Skirmish_v1",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay",
+      "levelName": "Tallil_Skirmish_v1",
+      "minimapTexture": "Tallil_Minimap_Skirmish_v1",
+      "lightingLevel": "LL_Tallil_MidDay",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -105131,7 +105131,7 @@
         "06-Highway Edge"
       ],
       "capturePoints": "6",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "-0.3x1.0 km",
@@ -105140,9 +105140,9 @@
     {
       "Name": "Tallil Skirmish v2",
       "rawName": "Tallil_Skirmish_v2",
-      "levelName": "Tallil_Outskirts_Skirmish_v2",
-      "minimapTexture": "Tallil_Outskirts_Minimap_Skirmish_v2",
-      "lightingLevel": "LL_Tallil_Outskirts_Morning",
+      "levelName": "Tallil_Skirmish_v2",
+      "minimapTexture": "Tallil_Minimap_Skirmish_v2",
+      "lightingLevel": "LL_Tallil_Morning",
       "lighting": "Morning Sunrise",
       "border": [
         {
@@ -105371,7 +105371,7 @@
         "05-Admin Barracks"
       ],
       "capturePoints": "5",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Skirmish",
       "layerVersion": "v2",
       "mapSize": "1.7x0.2 km",
@@ -105380,9 +105380,9 @@
     {
       "Name": "Tallil Skirmish v3",
       "rawName": "Tallil_Skirmish_v3",
-      "levelName": "Tallil_Outskirts_Skirmish_v3",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_Skirmish_v3",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -105683,7 +105683,7 @@
         "05-Gastown"
       ],
       "capturePoints": "5",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Skirmish",
       "layerVersion": "v3",
       "mapSize": "4.0x4.1 km",
@@ -105692,9 +105692,9 @@
     {
       "Name": "Tallil Tanks v1",
       "rawName": "Tallil_Tanks_v1",
-      "levelName": "Tallil_Outskirts_Tanks_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_Tanks_v1",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -105869,7 +105869,7 @@
         "05-Batha"
       ],
       "capturePoints": "5",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Tanks",
       "layerVersion": "v1",
       "mapSize": "4.0x4.1 km",
@@ -105878,9 +105878,9 @@
     {
       "Name": "Tallil Tanks v2",
       "rawName": "Tallil_Tanks_v2",
-      "levelName": "Tallil_Outskirts_Tanks_v2",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_Tanks_v2",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -106037,7 +106037,7 @@
         "05-Batha"
       ],
       "capturePoints": "5",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "Tanks",
       "layerVersion": "v2",
       "mapSize": "4.0x4.1 km",
@@ -106046,9 +106046,9 @@
     {
       "Name": "Tallil TA v1",
       "rawName": "Tallil_TA_v1",
-      "levelName": "Tallil_Outskirts_TA_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_TA_v1",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -106166,7 +106166,7 @@
         "100-Team2 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "TA",
       "layerVersion": "v1",
       "mapSize": "4.0x4.1 km",
@@ -106175,9 +106175,9 @@
     {
       "Name": "Tallil TC v1",
       "rawName": "Tallil_TC_v1",
-      "levelName": "Tallil_Outskirts_TC_v1",
-      "minimapTexture": "Tallil_Outskirts_Minimap",
-      "lightingLevel": "LL_Tallil_Outskirts_MidDay2",
+      "levelName": "Tallil_TC_v1",
+      "minimapTexture": "Tallil_Minimap",
+      "lightingLevel": "LL_Tallil_MidDay2",
       "lighting": "Sunny Mid Day",
       "border": [
         {
@@ -106472,7 +106472,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "61",
       "capturePoints": "61",
-      "mapName": "Tallil Outskirts",
+      "mapName": "Tallil",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "4.0x4.1 km",
