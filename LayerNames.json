@@ -6358,7 +6358,7 @@
     {
       "Name": "AlBasrah AAS v1",
       "rawName": "AlBasrah_AAS_v1",
-      "levelName": "Albasrah_AAS_v1",
+      "levelname": "AlBasrah_AAS_v1",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -6669,7 +6669,7 @@
     {
       "Name": "AlBasrah AAS v2",
       "rawName": "AlBasrah_AAS_v2",
-      "levelName": "Albasrah_AAS_v2",
+      "levelname": "AlBasrah_AAS_v2",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -6971,7 +6971,7 @@
     {
       "Name": "AlBasrah AAS v3",
       "rawName": "AlBasrah_AAS_v3",
-      "levelName": "Albasrah_AAS_v3",
+      "levelname": "AlBasrah_AAS_v3",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -7246,7 +7246,7 @@
     {
       "Name": "AlBasrah Insurgency v1",
       "rawName": "AlBasrah_Insurgency_v1",
-      "levelName": "Albasrah_Insurgency_v1",
+      "levelname": "AlBasrah_Insurgency_v1",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_Sunset",
       "lighting": "Sunrise",
@@ -7651,7 +7651,7 @@
     {
       "Name": "AlBasrah Invasion v1",
       "rawName": "AlBasrah_Invasion_v1",
-      "levelName": "Albasrah_invasion_v1",
+      "levelname": "AlBasrah_invasion_v1",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_Sunset",
       "lighting": "Sunrise",
@@ -7980,7 +7980,7 @@
     {
       "Name": "AlBasrah Invasion v2",
       "rawName": "AlBasrah_Invasion_v2",
-      "levelName": "Albasrah_invasion_v2",
+      "levelname": "AlBasrah_invasion_v2",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -8363,7 +8363,7 @@
     {
       "Name": "AlBasrah Invasion v3",
       "rawName": "AlBasrah_Invasion_v3",
-      "levelName": "Albasrah_invasion_v3",
+      "levelname": "AlBasrah_invasion_v3",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -8764,7 +8764,7 @@
     {
       "Name": "AlBasrah Invasion v4",
       "rawName": "AlBasrah_Invasion_v4",
-      "levelName": "Albasrah_Invasion_v4",
+      "levelname": "AlBasrah_Invasion_v4",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -9083,7 +9083,7 @@
     {
       "Name": "AlBasrah Invasion v5",
       "rawName": "AlBasrah_Invasion_v5",
-      "levelName": "Albasrah_Invasion_v5",
+      "levelname": "AlBasrah_Invasion_v5",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_Sunset",
       "lighting": "Sunrise",
@@ -9393,7 +9393,7 @@
     {
       "Name": "AlBasrah Invasion v6",
       "rawName": "AlBasrah_Invasion_v6",
-      "levelName": "AlBasrah_Invasion_v6",
+      "levelname": "AlBasrah_Invasion_v6",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -9703,7 +9703,7 @@
     {
       "Name": "AlBasrah Invasion v7",
       "rawName": "AlBasrah_Invasion_v7",
-      "levelName": "AlBasrah_Invasion_v7",
+      "levelname": "AlBasrah_Invasion_v7",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -10032,7 +10032,7 @@
     {
       "Name": "AlBasrah RAAS v1",
       "rawName": "AlBasrah_RAAS_v1",
-      "levelName": "Albasrah_RAAS_v1",
+      "levelname": "AlBasrah_RAAS_v1",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -10396,7 +10396,7 @@
     {
       "Name": "AlBasrah Seed v1",
       "rawName": "AlBasrah_Seed_v1",
-      "levelName": "Albasrah_Seed_v1",
+      "levelname": "AlBasrah_Seed_v1",
       "minimapTexture": "albasrah_minimap_skirmish_v1",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -10630,7 +10630,7 @@
     {
       "Name": "AlBasrah Skirmish v1",
       "rawName": "AlBasrah_Skirmish_v1",
-      "levelName": "Albasrah_Skirmish_v1",
+      "levelname": "AlBasrah_Skirmish_v1",
       "minimapTexture": "albasrah_minimap_skirmish_v1",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -10882,7 +10882,7 @@
     {
       "Name": "AlBasrah Skirmish v2",
       "rawName": "AlBasrah_Skirmish_v2",
-      "levelName": "Albasrah_Skirmish_v2",
+      "levelname": "AlBasrah_Skirmish_v2",
       "minimapTexture": "albasrah_minimap_skirmish_v2",
       "lightingLevel": "LL_AlBasrah_Sunset",
       "lighting": "Sunrise",
@@ -11103,7 +11103,7 @@
     {
       "Name": "AlBasrah TA v1",
       "rawName": "AlBasrah_TA_v1",
-      "levelName": "Albasrah_TA_v1",
+      "levelname": "AlBasrah_TA_v1",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -11220,7 +11220,7 @@
     {
       "Name": "AlBasrah TC v1",
       "rawName": "AlBasrah_TC_v1",
-      "levelName": "Albasrah_TC_v1",
+      "levelname": "AlBasrah_TC_v1",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_MidDay",
       "lighting": "Sunny Mid Day",
@@ -11487,7 +11487,7 @@
     {
       "Name": "AlBasrah TC v2",
       "rawName": "AlBasrah_TC_v2",
-      "levelName": "Albasrah_TC_v2",
+      "levelname": "AlBasrah_TC_v2",
       "minimapTexture": "albasrah_minimap",
       "lightingLevel": "LL_AlBasrah_Sunset",
       "lighting": "Sunrise",
@@ -30469,7 +30469,7 @@
         "05-Mine Entrance"
       ],
       "capturePoints": "5",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "0.0x0.0 km",
@@ -30675,7 +30675,7 @@
         "07-OP Fortress"
       ],
       "capturePoints": "7",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "0.0x0.0 km",
@@ -30912,7 +30912,7 @@
         "00-Team1 Main"
       ],
       "capturePoints": "2",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "Destruction",
       "layerVersion": "v1",
       "mapSize": "0.0x0.0 km",
@@ -31170,7 +31170,7 @@
         "04-CaptureZoneCluster"
       ],
       "capturePoints": "4",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "0.0x0.0 km",
@@ -31402,7 +31402,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "0.0x0.0 km",
@@ -31607,7 +31607,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "0.0x0.0 km",
@@ -31831,7 +31831,7 @@
         "06-BP_CaptureZoneCluster"
       ],
       "capturePoints": "6",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "0.0x0.0 km",
@@ -32054,7 +32054,7 @@
         ]
       },
       "capturePoints": "5",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "RAAS",
       "layerVersion": "v4",
       "mapSize": "0.0x0.0 km",
@@ -32241,7 +32241,7 @@
         "05-BP_CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "RAAS",
       "layerVersion": "v5",
       "mapSize": "0.0x0.0 km",
@@ -32427,7 +32427,7 @@
         "05-Mine Entrance"
       ],
       "capturePoints": "5",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "0.0x0.0 km",
@@ -32557,7 +32557,7 @@
         "03-Homestead"
       ],
       "capturePoints": "3",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "Skirmish",
       "layerVersion": "v2",
       "mapSize": "0.0x0.0 km",
@@ -32773,7 +32773,7 @@
       "type": "TC Hex Zone",
       "Number of Hexes": "30",
       "capturePoints": "30",
-      "mapName": "Fool's Road",
+      "mapName": "FoolsRoad",
       "gamemode": "TC",
       "layerVersion": "v1",
       "mapSize": "0.0x0.0 km",
@@ -33056,7 +33056,7 @@
         "06-Postville"
       ],
       "capturePoints": "6",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "AAS",
       "layerVersion": "v1",
       "mapSize": "3.9x3.7 km",
@@ -33349,7 +33349,7 @@
         "07-Shipping Center"
       ],
       "capturePoints": "7",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "AAS",
       "layerVersion": "v2",
       "mapSize": "3.9x3.7 km",
@@ -33650,7 +33650,7 @@
         "05-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "Invasion",
       "layerVersion": "v1",
       "mapSize": "3.9x4.0 km",
@@ -33897,7 +33897,7 @@
         "01-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "Invasion",
       "layerVersion": "v2",
       "mapSize": "3.9x4.0 km",
@@ -34169,7 +34169,7 @@
         "03-CaptureZoneCluster"
       ],
       "capturePoints": "3",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "Invasion",
       "layerVersion": "v3",
       "mapSize": "3.9x4.0 km",
@@ -34497,7 +34497,7 @@
         "01-CaptureZoneCluster"
       ],
       "capturePoints": "5",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "Invasion",
       "layerVersion": "v4",
       "mapSize": "4.1x4.0 km",
@@ -34837,7 +34837,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "RAAS",
       "layerVersion": "v1",
       "mapSize": "3.9x3.7 km",
@@ -35177,7 +35177,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "RAAS",
       "layerVersion": "v2",
       "mapSize": "3.9x3.7 km",
@@ -35544,7 +35544,7 @@
         ]
       },
       "capturePoints": "6",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "RAAS",
       "layerVersion": "v3",
       "mapSize": "4.1x3.8 km",
@@ -35754,7 +35754,7 @@
         "05-Postville"
       ],
       "capturePoints": "5",
-      "mapName": "Goose Bay",
+      "mapName": "GooseBay",
       "gamemode": "Skirmish",
       "layerVersion": "v1",
       "mapSize": "3.9x3.7 km",
@@ -69257,7 +69257,7 @@
     },
     {
       "Name": "Lashkar AAS v1",
-      "rawName": "LashkarValley_AAS_v1",
+      "rawName": "Lashkar_AAS_v1",
       "levelName": "Lashkar_AAS_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -69694,7 +69694,7 @@
     },
     {
       "Name": "Lashkar AAS v2",
-      "rawName": "LashkarValley_AAS_v2",
+      "rawName": "Lashkar_AAS_v2",
       "levelName": "Lashkar_AAS_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -70149,7 +70149,7 @@
     },
     {
       "Name": "Lashkar AAS v3",
-      "rawName": "LashkarValley_AAS_v3",
+      "rawName": "Lashkar_AAS_v3",
       "levelName": "Lashkar_AAS_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -70595,7 +70595,7 @@
     },
     {
       "Name": "Lashkar AAS v4",
-      "rawName": "LashkarValley_AAS_v4",
+      "rawName": "Lashkar_AAS_v4",
       "levelName": "Lashkar_AAS_v4",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -71050,7 +71050,7 @@
     },
     {
       "Name": "Lashkar Insurgency v1",
-      "rawName": "LashkarValley_Insurgency_v1",
+      "rawName": "Lashkar_Insurgency_v1",
       "levelName": "Lashkar_Insurgency_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Early_Morning",
@@ -71530,7 +71530,7 @@
     },
     {
       "Name": "Lashkar Invasion v1",
-      "rawName": "LashkarValley_Invasion_v1",
+      "rawName": "Lashkar_Invasion_v1",
       "levelName": "Lashkar_Invasion_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
@@ -71996,7 +71996,7 @@
     },
     {
       "Name": "Lashkar Invasion v2",
-      "rawName": "LashkarValley_Invasion_v2",
+      "rawName": "Lashkar_Invasion_v2",
       "levelName": "Lashkar_Invasion_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -72480,7 +72480,7 @@
     },
     {
       "Name": "Lashkar Invasion v3",
-      "rawName": "LashkarValley_Invasion_v3",
+      "rawName": "Lashkar_Invasion_v3",
       "levelName": "Lashkar_Invasion_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -72973,7 +72973,7 @@
     },
     {
       "Name": "Lashkar RAAS v1",
-      "rawName": "LashkarValley_RAAS_v1",
+      "rawName": "Lashkar_RAAS_v1",
       "levelName": "Lashkar_RAAS_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Early_Morning",
@@ -73458,7 +73458,7 @@
     },
     {
       "Name": "Lashkar RAAS v2",
-      "rawName": "LashkarValley_RAAS_v2",
+      "rawName": "Lashkar_RAAS_v2",
       "levelName": "Lashkar_RAAS_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -73925,7 +73925,7 @@
     },
     {
       "Name": "Lashkar RAAS v3",
-      "rawName": "LashkarValley_RAAS_v3",
+      "rawName": "Lashkar_RAAS_v3",
       "levelName": "Lashkar_RAAS_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
@@ -74401,7 +74401,7 @@
     },
     {
       "Name": "Lashkar RAAS v4",
-      "rawName": "LashkarValley_RAAS_v4",
+      "rawName": "Lashkar_RAAS_v4",
       "levelName": "Lashkar_RAAS_v4",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -75005,7 +75005,7 @@
     },
     {
       "Name": "Lashkar RAAS v5",
-      "rawName": "LashkarValley_RAAS_v5",
+      "rawName": "Lashkar_RAAS_v5",
       "levelName": "Lashkar_RAAS_v5",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -75609,7 +75609,7 @@
     },
     {
       "Name": "Lashkar Skirmish v1",
-      "rawName": "LashkarValley_Skirmish_v1",
+      "rawName": "Lashkar_Skirmish_v1",
       "levelName": "Lashkar_Skirmish_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Daytime",
@@ -76010,7 +76010,7 @@
     },
     {
       "Name": "Lashkar TC v1",
-      "rawName": "LashkarValley_TC_v1",
+      "rawName": "Lashkar_TC_v1",
       "levelName": "Lashkar_TC_v1",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
@@ -76457,7 +76457,7 @@
     },
     {
       "Name": "Lashkar TC v2",
-      "rawName": "LashkarValley_TC_v2",
+      "rawName": "Lashkar_TC_v2",
       "levelName": "Lashkar_TC_v2",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
@@ -76805,7 +76805,7 @@
     },
     {
       "Name": "Lashkar TC v3",
-      "rawName": "LashkarValley_TC_v3",
+      "rawName": "Lashkar_TC_v3",
       "levelName": "Lashkar_TC_v3",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Early_Morning",
@@ -77243,7 +77243,7 @@
     },
     {
       "Name": "Lashkar TC v4",
-      "rawName": "LashkarValley_TC_v4",
+      "rawName": "Lashkar_TC_v4",
       "levelName": "Lashkar_TC_v4",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
@@ -77681,7 +77681,7 @@
     },
     {
       "Name": "Lashkar TC v5",
-      "rawName": "LashkarValley_TC_v5",
+      "rawName": "Lashkar_TC_v5",
       "levelName": "Lashkar_TC_v5",
       "minimapTexture": "T_Lashkar_Minimap",
       "lightingLevel": "LL_Lashkar_Rainstorm",
